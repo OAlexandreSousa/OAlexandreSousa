@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Alexandre de Sousa Silva😁
 
  <div>
-   <a href="https://github.com/RoyalDealer">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoyalDealer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalDealer&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/OAlexandreSousa/">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OAlexandreSousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OAlexandreSousa&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
